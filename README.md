@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-![Staffelter Hof Winery](https://github.com/PedroEvaristo1/SQL_notebooks/blob/main/MKn_Staffelter_Hof.jpeg)
+![Staffelter Hof Winery]()
 
 Staffelter Hof Winery is Germany's oldest business, established in 862 under the Carolingian dynasty. It has continued to serve customers through dramatic changes in Europe, such as the Holy Roman Empire, the Ottoman Empire, and both world wars. This raises the question: **What characteristics enable a business to stand the test of time?**
 
