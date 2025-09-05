@@ -12,8 +12,9 @@ To help answer this question, this project analyzes a dataset from BusinessFinan
 
 The primary goal is to analyze data from multiple CSV files to better understand the world's oldest businesses. This involves using SQL to join and manipulate the data to uncover insights into business longevity.
 
+
 ### Database Schema (ERD)
 
 Here is the Entity-Relationship Diagram for the tables used in this analysis.
 
-![ERD for the Oldest Businesses Project](path/to/your/image.png)
+![ERD for the Oldest Businesses Project](https://github.com/PedroEvaristo1/SQL_notebooks/blob/main/oldest_businesses_analysis/images/oldest_business_datacamp_ERD.png)
