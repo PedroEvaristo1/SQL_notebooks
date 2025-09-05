@@ -51,3 +51,15 @@ This analysis answered several key questions:
 - **/data**: Contains the raw CSV files for the analysis.
 - **/images**: Contains the ERD and any other images used in the project.
 - **notebook.ipynb**: The main Jupyter Notebook with the SQL queries and analysis.
+
+---
+
+### Acknowledgments
+
+This project was completed as part of the DataCamp curriculum. The project idea, dataset, and guiding questions were provided by the DataCamp platform.
+
+My personal contribution includes:
+* Designing and creating the database schema and ERD.
+* Writing all of the SQL queries for the analysis.
+* Interpreting the results and generating key insights.
+* Documenting the entire process in this repository.
