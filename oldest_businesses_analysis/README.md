@@ -23,7 +23,7 @@ The primary goal is to analyze data from multiple CSV files to better understand
   
 ---
 
-### 📂 pgAdin 4 Database Schema (ERD)
+### 📂 pgAdmin 4 Database Schema (ERD)
 
 Here is the Entity-Relationship Diagram for the tables used in this analysis. It shows how the "businesses", "countries", and "categories" tables are linked.
 
