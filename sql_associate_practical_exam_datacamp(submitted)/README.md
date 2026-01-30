@@ -37,7 +37,7 @@ The exam simulated a dirty dataset scenario. The solution addresses the followin
 * `notebook.ipynb`: Jupyter notebook with the exact SQL query code used to pass all automated test cases in the exam environment.
 * `hotel_operations.png`: The database schema.
 * `images/hotel_operations.png`: Visual representation of the database schema used in the project.
-* `SQL_Associate_Certificate.pdf`: The official certification PDF issued by DataCamp upon passing the exam.
+* `SQL_Associate_Certificate_Datacamp.pdf`: The official certification PDF issued by DataCamp upon passing the exam.
 
 ### ⚠️ Note on Data Access
 **The raw datasets (CSV files) are not included in this repository.**
