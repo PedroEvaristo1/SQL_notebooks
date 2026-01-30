@@ -9,8 +9,10 @@ The assessment required solving a real-world data engineering problem within a t
 
 **Date of Certification:** January 29, 2026
 
-## 🗂️ Database Schema
-The following diagram illustrates the structure and relationships between the tables in the hotel operations database utilized in this assessment.
+## 🗂️ Database Schema (Star Schema)
+The database follows a **Star Schema** architecture, optimized for analytical queries. It consists of a central **Fact Table** containing the metrics and events, connected to **Dimension Tables** that provide descriptive context.
+* **Fact Table:** `f_request` (Transactions, Ratings, Time Taken)
+* **Dimension Tables:** `d_branch` (Location, Staff) and `d_service` (Service Description)
 
 ![Database Schema Visual](images/hotel_operations.png)
 
@@ -35,10 +37,12 @@ The exam simulated a dirty dataset scenario. The solution addresses the followin
 
 ## 📂 File Contents
 * `notebook.ipynb`: Jupyter notebook with the exact SQL query code used to pass all automated test cases in the exam environment.
-* `hotel_operations.png`: The database schema.
+* `dataset/`: Folder containing the data extracted from the environment, organized as:
+    * `f_request.csv`: Main fact table with service request events and metrics.
+    * `d_branch.csv`: Dimension table containing hotel branch details.
+    * `d_service.csv`: Dimension table containing service descriptions.
 * `images/hotel_operations.png`: Visual representation of the database schema used in the project.
 * `SQL_Associate_Certificate_Datacamp.pdf`: The official certification PDF issued by DataCamp upon passing the exam.
-
 
 ---
 *This repository serves as a record of the practical skills validated during the certification process.*
