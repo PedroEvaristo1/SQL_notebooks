@@ -9,6 +9,11 @@ The assessment required solving a real-world data engineering problem within a t
 
 **Date of Certification:** January 29, 2026
 
+## 🗂️ Database Schema
+The following diagram illustrates the structure and relationships between the tables in the hotel operations database utilized in this assessment.
+
+![Database Schema Visual](images/hotel_operations.png)
+
 ## 🎯 The Challenge
 The exam simulated a dirty dataset scenario. The solution addresses the following four mandatory tasks:
 
@@ -31,6 +36,8 @@ The exam simulated a dirty dataset scenario. The solution addresses the followin
 ## 📂 File Contents
 * `notebook.ipynb`: Jupyter notebook with the exact SQL query code used to pass all automated test cases in the exam environment.
 * `hotel_operations.png`: The database schema.
+* `images/hotel_operations.png`: Visual representation of the database schema used in the project.
+* `SQL_Associate_Certificate.pdf`: The official certification PDF issued by DataCamp upon passing the exam.
 
 ---
 *This repository serves as a record of the practical skills validated during the certification process.*
