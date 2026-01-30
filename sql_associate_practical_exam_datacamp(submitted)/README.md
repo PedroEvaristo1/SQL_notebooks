@@ -39,5 +39,9 @@ The exam simulated a dirty dataset scenario. The solution addresses the followin
 * `images/hotel_operations.png`: Visual representation of the database schema used in the project.
 * `SQL_Associate_Certificate.pdf`: The official certification PDF issued by DataCamp upon passing the exam.
 
+### ⚠️ Note on Data Access
+**The raw datasets (CSV files) are not included in this repository.**
+The assessment was conducted within DataCamp's secure cloud environment (IDE), which does not provide an option to export or download the raw source files for this specific certification. The schema image above serves as the sole reference for the data structure used during the exam.
+
 ---
 *This repository serves as a record of the practical skills validated during the certification process.*
